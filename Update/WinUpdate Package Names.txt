@@ -1,0 +1,4 @@
+Aviso: Ao pesquisar informe a arquitetura do seu sistema, se é x32 ou x64.
+
+Arquivo 1 - Windows8.1-KB3021910;
+Arquivo 2 - Windows8.1-KB3172614;

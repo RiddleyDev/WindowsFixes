@@ -1,0 +1,17 @@
+Caso você tenha o erro 0x80070003 durante alguma instalação ou atualização, faça o seguinte:
+
+1 - Abra o Prompt de Comando(CMD) em modo de admnistrador
+	- Windows + X;
+	- Prompt de Comando(Admin)
+
+2 - Digite comandos:
+	- net stop wuauserv
+	- net stop bits
+	- net stop cryptserver
+	- net stop msiserver
+
+3 - Localize e renomeie com ".old" no final do nome cada uma das pastas abaixo:
+	- C:\Windows\SoftwareDistribution => C:\Windows\SoftwareDistribution.old
+	- C:\Windows\System32\catroot2    => C:\Windows\System32\catroot2.old
+
+4 - Reinicie PC.

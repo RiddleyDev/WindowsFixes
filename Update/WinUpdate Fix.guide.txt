@@ -1,0 +1,5 @@
+1 - Descompacte o arquivo;
+2 - Pare o serviço do WinUpdate(Exibir serviços locais / net stop wuauserv);
+3 - Desative a internet;
+4 - Instale os pacotes;
+5 - Reinicie o PC.

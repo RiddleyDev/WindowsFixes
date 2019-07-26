@@ -1,0 +1,13 @@
+1 - Abra um editor de texto e digite o seguinte comando:
+	taskkill /f /IM explorer.exe
+	start explorer.exe
+	exit
+
+2 - Salve como "start-menu-fix.bat", assim seu arquivo será um executável batch script;
+
+3 - Para fazer seu comando rodar automaticamente, ao iniciar o computador:
+	- Copie ou recorte o arquivo "start-menu-fix.bat";
+	- Abra a pasta do menu iniciar(C:\Users\SeuUsuario\AppData\Roaming\Microsoft\Windows\Start Menu\Programs);
+	- Cole o executável lá.
+
+4 - Pronto, já acabou.
