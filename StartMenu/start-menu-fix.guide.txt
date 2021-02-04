@@ -3,11 +3,11 @@
 	start explorer.exe
 	exit
 
-2 - Salve como "start-menu-fix.bat", assim seu arquivo ser· um execut·vel batch script;
+2 - Salve como "start-menu-fix.bat", assim seu arquivo ser√° um execut√°vel batch script;
 
 3 - Para fazer seu comando rodar automaticamente, ao iniciar o computador:
 	- Copie ou recorte o arquivo "start-menu-fix.bat";
 	- Abra a pasta do menu iniciar(C:\Users\SeuUsuario\AppData\Roaming\Microsoft\Windows\Start Menu\Programs);
-	- Cole o execut·vel l·.
+	- Cole o execut√°vel l√°.
 
-4 - Pronto, j· acabou.
+4 - Pronto, j√° acabou.

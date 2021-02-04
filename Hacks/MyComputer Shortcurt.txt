@@ -1,0 +1,4 @@
+1 - Clique com o botão direito do mouse e vá em criar atalho;
+2 - Em "Destino", cole o seguinte texto:
+    %SystemRoot%\explorer.exe /root,::{20D04FE0-3AEA-1069-A2D8-08002B30309D}
+3 - Salve o atalho.

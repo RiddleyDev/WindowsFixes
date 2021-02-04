@@ -1,4 +1,4 @@
-Caso você tenha o erro 0x80070003 durante alguma instalação ou atualização, faça o seguinte:
+Caso vocÃª tenha o erro 0x80070003 durante alguma instalaÃ§Ã£o ou atualizaÃ§Ã£o, faÃ§a o seguinte:
 
 1 - Abra o Prompt de Comando(CMD) em modo de admnistrador
 	- Windows + X;

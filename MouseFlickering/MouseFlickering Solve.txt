@@ -1,6 +1,6 @@
 1 - Painel de Controle;
 2 - Clique em Mouse;
-3 - Vá na aba ponteiros;
+3 - VÃ¡ na aba ponteiros;
 4 - Clique em nenhum;
 5 - Aplicar e fechar.
 
@@ -8,6 +8,6 @@
 
 1 - Dispositivos e Impressoras;
 2 - Clique em Mouse;
-3 - Vá na aba ponteiros;
+3 - VÃ¡ na aba ponteiros;
 4 - Clique em nenhum;
 5 - Aplicar e fechar.
